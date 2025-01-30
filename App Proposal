@@ -1,0 +1,37 @@
+                                                            "SafeWalk - A Community Safety App"
+Goals:
+   The proposed app, SafeWalk, is designed to enhance personal safety through real-time location sharing, alerts, and assistance in unsafe situations. 
+It aims to reduce crime risks, promote community engagement, and foster a culture of shared responsibility for proactive safety, particularly for vulnerable groups.
+
+Roles:
+   Use the app to share routes, monitor alerts, and offer safety assistance.
+
+Audience:
+  Communities
+
+Situation:
+  In many communities, individuals—especially women and students—face risks of violence, harassment, or robbeemergency hotlines are reactive rather than proactive.
+SafeWalk addresses this issue by providing a direct link to community support systems, allowing users to report concerns and request assistance in real time.
+
+Products/Performance/ Output:
+1. Objective: To enhance community safety by providing real-time location tracking, emergency alerts, and AI-driven risk assessment to prevent crime and ensure quick response to emergencies.
+2. Key SDGs Targeted:
+   SDG 11: Sustainable Cities and Communities
+   SDG 16: Peace, Justice, and Strong Institutions
+
+3. Key Features:
+   Live Location Sharing: Secure tracking for users walking alone at night.
+   Emergency SOS: One-tap alert system connected to local authorities and trusted contacts.
+   AI Risk Assessment: Machine learning models to predict high-risk areas based on crime data.
+   Community Reporting: Users can report incidents, fostering community engagement.
+   Safe Routes: AI-recommended paths based on historical safety data.
+
+4. Technical Architecture:
+5. Research References:
+   https://www.unodc.org/unodc/en/commissions/CCPCJ/CrimePrevention/Technology-and-crime-prevention.html  
+   https://www.who.int/violence_injury_prevention/violence/global_campaign/en/
+   https://blogs.cisco.com/smartcities/smart-city-safety
+   https://www.noonlight.com
+
+
+
